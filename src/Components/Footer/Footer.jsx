@@ -4,7 +4,7 @@ const Footer = () => {
   return (
     <div>
         <footer>
-        <div class="footer-content">
+        <div class="footer-content" id="kontak">
             <h3>Sosial Media Kami :</h3>
             <ul class="socials">
                 <li><a href="#"><i class="fa fa-facebook"></i></a></li>
